@@ -6,7 +6,7 @@ function App() {
       {/* Main Content */}
       <div className="flex flex-col items-center justify-center flex-grow px-4">
         <h1 className="text-white text-2xl sm:text-4xl mb-6">
-          We will be back SOONNNNNNNN
+          We will be back SOON
         </h1>
 
         <DotLottieReact
