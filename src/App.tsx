@@ -10,7 +10,14 @@ function App() {
         </h1>
 
         <DotLottieReact
-          src="https://lottie.host/ad415870-8a7e-4636-a990-02fa62e5202a/nYUbmUMo12.lottie"
+          src="https://lottie.host/d8f8e8c8-9f08-4fae-bb50-a8c7e0288a2b/5VVC6pN04X.lottie"
+      loop
+      autoplay
+    />
+  );
+};
+
+"
           loop
           autoplay
           style={{ width: "200px", height: "200px" }}
